@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\bin\Debug\eczane otomasyonu.exe.config
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\bin\Debug\eczane otomasyonu.exe
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\bin\Debug\eczane otomasyonu.pdb
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\obj\Debug\eczane_otomasyonu.FormKullanici.resources
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\obj\Debug\eczane_otomasyonu.Properties.Resources.resources
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\obj\Debug\eczane otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\obj\Debug\eczane otomasyonu.exe
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\obj\Debug\eczane otomasyonu.pdb
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\obj\Debug\eczane_otomasyonu.Form2.resources
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\obj\Debug\eczane_otomasyonu.Form3.resources
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\obj\Debug\eczane_otomasyonu.Form4.resources
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\obj\Debug\eczane_otomasyonu.Form5.resources
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\obj\Debug\eczane_otomasyonu.Form6.resources
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\obj\Debug\eczane_otomasyonu.Form8.resources
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\obj\Debug\eczane_otomasyonu.anaform.resources
+C:\Users\Dell\Desktop\eczane otomasyonu\eczane otomasyonu\eczane otomasyonu\obj\Debug\eczane otomasyonu.csprojResolveAssemblyReference.cache
